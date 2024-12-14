@@ -1,0 +1,44 @@
+Project Objective:
+
+The objective of this analysis is to discover various factors contributing to increased customer churn rate at the bank, and provide 
+the business users with these insights which they can use to make informed decisions and strategize on how to improve customer retention and reduce churn rate.
+
+
+Insights :
+
+1.	Churn rate for male customers is 65% but the overall male churn rate is at 25%.
+
+2.	In terms of those with credit card facility, the churn rate is highest amongst lowest credit score group of >400 .
+
+3.	Surprisingly, the customers whose account balance are <=200k are the most churned in terms of account balance.
+
+4.	Overall, Churn rate is very high at 56.2% for middle aged customers between 51–60 years of age.
+
+5.	For the products, churn rate is high @ 27.7% amongst customers in the Prod 1 group. The age account and credit score factors are same here. 
+	Similar situation for prod 2 =, however in prod 2, the churn rate is at all time 100% for customers between the 1k-1ok account balance.
+
+
+Recommendation :
+
+
+1.	The stakeholders could consider creating products that target seniors close to their early retirement age to avoid losing them.
+
+2.	An incentive program could be considered for customers who have maintained longer relationship with the bank.
+
+3.	In the same way, an exclusive package such as travel and vacation packages, subsidized investment portfolio, e.t.c., could be considered for the customers 
+	in the >200k account balance group, to reduce the rate at which they leave the bank.
+
+4.	The business needs to understand why there is 100% churn rate for Prod 2 customers with account balance of 1k-10k and how to get them back in business.
+
+
+In Summary, age group of 51–60, people with low credit scores and those with high account balance (>200k) are most likely to churn. 
+The bank should consider the recommendations above and other effective strategies that can address the findings, to better customer retention and reduce chrun rate.
+
+Conclusion :
+
+	In this Power BI analysis, I went through some major data analysis process to get the data from raw to cleaned and onto building the report, ensuring data quality across board. 
+	Most importantly, it provided valuable insights into some of the major factors that encourage customer churn at the bank.
+
+	With this report, the stakeholders can better manage the churn situation (specifically for salaried customers), by focusing on the key factors and evaluating the results of their 
+	changes periodically.
+
